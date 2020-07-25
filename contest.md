@@ -9,4 +9,4 @@ toc_icon: "cog"
 
 Aguarde!
 
-https://formspree.io/xdowypkp
+{% include form.html %}
