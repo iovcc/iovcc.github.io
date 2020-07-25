@@ -1,0 +1,12 @@
+# main links
+main:
+  - title: "Início"
+    url: /
+  - title: "Quem Somos"
+    url: /about/
+  - title: "Regras"
+    url: /contest/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
