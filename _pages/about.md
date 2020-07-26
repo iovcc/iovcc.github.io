@@ -1,11 +1,32 @@
 ---
 permalink: /about/
 title: "About"
-modified: 2020-07-25
+modified: 2020-07-25 
+toc: false
+author_profile: false
+sidebar: false
+read_time: true
+comments: true
+share: true
+feature_row:
+  - title: "Carlos Delfino"
+    image_path: "/assets/images/carlosdelfino.png"
+    excerpt: "Love programming, love get new knowledgement, love to learn.  First coded at age of 13 years old and, since that time, is continuously learning and getting new challenges. github: carlosdelfino"
+    url: "https://carlosdelfino.eti.br"
+    btn_label: "Site"
+    btn_class: "btn--primary"
+  - title: "Paulo Matias"
+    image_path: "/assets/images/thotypous.png" 
+    excerpt: "Assistant Professor at DC-UFSCar.  Ph.D.  in Computational Physics from IFSC-USP. github: thotypous"
+  - title: "Marcelo Samsoniuk"
+    image_path: "../assets/images/samsoniuk.png"
+    excerpt: "Ancient wizard from the 68000-era and maintainer of old opensource projects.  Currently R&D Consultant and Digital Expert at Unify/Atos, as well maintainer of the opensource DarkRISCV processor. github:samsoniuk"
+    url: "http://darklife.com"
+    btn_label: "Darklife"
+    btn_class: "btn--primary"
 ---
 
-{% include base_path %}
-{% include toc %}
+{% include base_path %} 
 
 ## About the IO/VCC
 
@@ -35,29 +56,6 @@ known tri-state IO buffer used in mostly FPGAs with an pull-up attached to
 the IO signal. At same time, Carlos proposed create the site and here we
 are! 
 
-### About the IO/VCC Founders
+## About the IO/VCC Founders
 
-
-
-#### Carlos Delphino
-
-![carlosdelfino](../assets/images/carlosdelfino.png) 
-
-Love programming, love get new knowledgement, love
-to learn.  First coded at age of 13 years old and, since that time, is
-continously learning and getting new challenges. github: carlosdelfino
-
-#### Paulo Matias
-
-![thotypous](../assets/images/thotypous.png) 
-
-Assistant Professor at DC-UFSCar.  Ph.D.  in Computational
-Physics from IFSC-USP. github: thotypous
-
-#### Marcelo Samsoniuk
-
-![samsoniuk](../assets/images/samsoniuk.png) 
-
-Ancient wizard from the 68000-era and maintainer of old
-opensource projects.  Currently R&D Consultant and Digital Expert at
-Unify/Atos, as well maintainer of the opensource DarkRISCV processor. github:samsoniuk
+{% include feature_row %}

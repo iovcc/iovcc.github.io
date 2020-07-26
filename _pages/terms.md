@@ -2,10 +2,19 @@
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+author_profile: false
+sidebar: false
+read_time: true
+comments: true
+share: true
+related: true
 ---
 
 {% include base_path %}
-{% include toc %}
+{% include toc %} 
 
 ## Privacy Policy
 
