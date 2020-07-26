@@ -9,6 +9,8 @@ tags: HDL, VHDL, Verilog, Bluespec, SystemVerilog, chisel, iverilog, verelator, 
 locale: pt-BR
 timezone: America/Sao_Paulo
 
+permalink: /posts/:categories/:title/
+
 paginate: 6 # amount of posts to show
 paginate_path: /posts/page:num/
 
