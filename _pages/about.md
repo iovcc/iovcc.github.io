@@ -51,7 +51,7 @@ getting new challenges.
 
 github: thotypous
 
-[!thotypous](../assets/images/tothypous.png)
+[!thotypous](../assets/images/thotypous.png)
 
 
 Assistant Professor at DC-UFSCar. Ph.D. in Computational Physics from
