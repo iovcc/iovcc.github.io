@@ -40,24 +40,25 @@ are!
 *Carlos Delphino*
 
 github: carlosdelfino
-https://avatars2.githubusercontent.com/u/369056?s=400&u=c14f3f3c66671fc57e96960ac53329c1d0e5e86f&v=4
+(../assets/images/carlosdelfino.png)
 
 Love programming, love get new knowledgement, love to learn. First coded at
 age of 13 years old and, since that time, is continously learning and
 getting new challenges.
 
 *Paulo Matias*
-github: thotypous
-https://avatars3.githubusercontent.com/u/262047?s=460&u=fec77dd968decd063a2efae5cfd3d886c5ff0433&v=4
 
+github: thotypous
+(../assets/images/thothypous.png)
 
 
 Assistant Professor at DC-UFSCar. Ph.D. in Computational Physics from
 IFSC-USP.
 
 *Marcelo Samsoniuk*
+
 github: samsoniuk
-https://avatars2.githubusercontent.com/u/42520878?s=460&u=dca55185ec98dbfa6323301d9c1706f45e397323&v=4
+(../assets/images/samsoniuk.png)
 
 Ancient wizard from the 68000-era and maintainer of old opensource projects. 
 Currently R&D Consultant and Digital Expert at Unify/Atos, as well
