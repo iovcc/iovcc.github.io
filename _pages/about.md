@@ -45,14 +45,14 @@ are!
 
 Love programming, love get new knowledgement, love
 to learn.  First coded at age of 13 years old and, since that time, is
-continously learning and getting new challenges. github: carlosdelfino
+continously learning and getting new challenges. https://github.com/carlosdelfino
 
 #### Paulo Matias
 
 ![thotypous]({{base_path}}/assets/images/thotypous.png) 
 
 Assistant Professor at DC-UFSCar.  Ph.D.  in Computational
-Physics from IFSC-USP. github: thotypous
+Physics from IFSC-USP. https://github.com/thotypous
 
 #### Marcelo Samsoniuk
 
@@ -60,4 +60,4 @@ Physics from IFSC-USP. github: thotypous
 
 Ancient wizard from the 68000-era and maintainer of old
 opensource projects.  Currently R&D Consultant and Digital Expert at
-Unify/Atos, as well maintainer of the opensource DarkRISCV processor. github:samsoniuk
+Unify/Atos, as well maintainer of the opensource DarkRISCV processor. https://github.com/samsoniuk
