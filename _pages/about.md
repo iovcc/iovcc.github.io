@@ -41,7 +41,7 @@ are!
 
 #### Carlos Delphino
 
-![carlosdelfino]({%base_path%}/assets/images/carlosdelfino.png) 
+![carlosdelfino]({{base_path}}/assets/images/carlosdelfino.png) 
 
 Love programming, love get new knowledgement, love
 to learn.  First coded at age of 13 years old and, since that time, is
@@ -49,14 +49,14 @@ continously learning and getting new challenges. github: carlosdelfino
 
 #### Paulo Matias
 
-![thotypous]({%base_path%}/assets/images/thotypous.png) 
+![thotypous]({{base_path}}/assets/images/thotypous.png) 
 
 Assistant Professor at DC-UFSCar.  Ph.D.  in Computational
 Physics from IFSC-USP. github: thotypous
 
 #### Marcelo Samsoniuk
 
-![samsoniuk]({%base_path%}/assets/images/samsoniuk.png) 
+![samsoniuk]({{base_path}}/assets/images/samsoniuk.png) 
 
 Ancient wizard from the 68000-era and maintainer of old
 opensource projects.  Currently R&D Consultant and Digital Expert at
