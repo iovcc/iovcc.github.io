@@ -16,7 +16,8 @@ Paulo Mathias after the analysis of a very weird segment of Verilog code:
   RST: Q <= 1'b1;
   SET: Q <= 1'b0;
   default: Q <= D;
-endcase```
+endcase
+```
 
 After a short simulation with iverilog, we found that the code works and,
 as expected, describes a flip-flop. After a brief discussion about the
