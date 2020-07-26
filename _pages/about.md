@@ -30,7 +30,7 @@ feature_row:
 
 ## About the IO/VCC
 
-The IO/VCC was created in Jul 2020 by Carlos Delphino, Marcelo Samsoniuk and
+The IO/VCC was created in Jul 2020 by Carlos Delfino, Marcelo Samsoniuk and
 Paulo Mathias after the analysis of a very weird segment of Verilog code:
 
 ```
@@ -57,5 +57,6 @@ the IO signal. At same time, Carlos proposed create the site and here we
 are! 
 
 ## About the IO/VCC Founders
+
 
 {% include feature_row %}
