@@ -9,9 +9,9 @@ modified: 2016-06-06
 
 ## Privacy Policy
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+The privacy of visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+First and foremost, we will not share your personal information with third parties without your permission, not even with our sponsors. However, information that is already public on your profile or even on this website and thus declared automatically becomes public on our website.
 
 ### Log Files
 
