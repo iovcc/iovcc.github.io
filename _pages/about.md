@@ -41,7 +41,7 @@ are!
 
 github: carlosdelfino
 
-![carlosdelfino](assets/images/carlosdelfino.png)
+![carlosdelfino](../assets/images/carlosdelfino.png)
 
 Love programming, love get new knowledgement, love to learn. First coded at
 age of 13 years old and, since that time, is continously learning and
@@ -51,7 +51,7 @@ getting new challenges.
 
 github: thotypous
 
-[!thotypous](assets/images/thothypous.png)
+[!thotypous](../assets/images/thothypous.png)
 
 
 Assistant Professor at DC-UFSCar. Ph.D. in Computational Physics from
@@ -61,7 +61,7 @@ IFSC-USP.
 
 github: samsoniuk
 
-[!samsoniuk](assets/images/samsoniuk.png)
+[!samsoniuk](../assets/images/samsoniuk.png)
 
 Ancient wizard from the 68000-era and maintainer of old opensource projects. 
 Currently R&D Consultant and Digital Expert at Unify/Atos, as well
