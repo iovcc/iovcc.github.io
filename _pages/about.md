@@ -12,7 +12,8 @@ modified: 2020-07-25
 The IO/VCC was created in Jul 2020 by Carlos Delphino, Marcelo Samsoniuk and
 Paulo Mathias after the analysis of a very weird segment of Verilog code:
 
-```case(1'b1)
+```
+case(1'b1)
   RST: Q <= 1'b1;
   SET: Q <= 1'b0;
   default: Q <= D;
