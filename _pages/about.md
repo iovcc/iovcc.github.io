@@ -51,7 +51,7 @@ getting new challenges.
 
 github: thotypous
 
-[!thotypous](../assets/images/thotypous.png)
+![thotypous](../assets/images/thotypous.png)
 
 
 Assistant Professor at DC-UFSCar. Ph.D. in Computational Physics from
@@ -61,7 +61,7 @@ IFSC-USP.
 
 github: samsoniuk
 
-[!samsoniuk](../assets/images/samsoniuk.png)
+![samsoniuk](../assets/images/samsoniuk.png)[]
 
 Ancient wizard from the 68000-era and maintainer of old opensource projects. 
 Currently R&D Consultant and Digital Expert at Unify/Atos, as well
