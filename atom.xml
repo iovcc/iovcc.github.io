@@ -9,7 +9,7 @@ title : Atom Feed
  <link href="{{ base_path }}"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <id>{{ base_path }}</id>
-{% if site.author }
+{% if site.author %}
  <author>
    <name>{{ site.author.name }}</name>
    <email>{{ site.author.email }}</email>
