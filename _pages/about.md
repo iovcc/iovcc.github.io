@@ -37,20 +37,22 @@ are!
 
 ### About the IO/VCC Founders
 
-![carlosdelfino](../assets/images/carlosdelfino.png) *Carlos Delphino*
-(github: carlosdelfino) Love programming, love get new knowledgement, love
+![carlosdelfino](../assets/images/carlosdelfino.png) 
+
+*Carlos Delphino* (github: carlosdelfino) 
+Love programming, love get new knowledgement, love
 to learn.  First coded at age of 13 years old and, since that time, is
 continously learning and getting new challenges.
 
+![thotypous](../assets/images/thotypous.png) 
 
-
-![thotypous](../assets/images/thotypous.png) *Paulo Matias* (github:
-thotypous) Assistant Professor at DC-UFSCar.  Ph.D.  in Computational
+*Paulo Matias* (github: thotypous) 
+Assistant Professor at DC-UFSCar.  Ph.D.  in Computational
 Physics from IFSC-USP.
 
+![samsoniuk](../assets/images/samsoniuk.png) 
 
-
-![samsoniuk](../assets/images/samsoniuk.png) *Marcelo Samsoniuk* (github:
-samsoniuk) Ancient wizard from the 68000-era and maintainer of old
+*Marcelo Samsoniuk* (github:samsoniuk) 
+Ancient wizard from the 68000-era and maintainer of old
 opensource projects.  Currently R&D Consultant and Digital Expert at
 Unify/Atos, as well maintainer of the opensource DarkRISCV processor.
