@@ -1,4 +1,5 @@
 ---
+permalink: /index.html
 title: Início
 layout: splash
 author_profile: false

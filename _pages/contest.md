@@ -9,4 +9,4 @@ toc_icon: "cog"
 
 Aguarde!
 
-{% include form.html %}
+{% include form_contest.html %}
