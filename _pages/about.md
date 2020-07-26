@@ -37,29 +37,25 @@ are!
 
 ### About the IO/VCC Founders
 
-*Carlos Delphino*
-
-github: carlosdelfino
-
 ![carlosdelfino](../assets/images/carlosdelfino.png)
+
+*Carlos Delphino* (github: carlosdelfino)
 
 Love programming, love get new knowledgement, love to learn. First coded at
 age of 13 years old and, since that time, is continously learning and
 getting new challenges.
 
-*Paulo Matias*
 
-github: thotypous
 
 ![thotypous](../assets/images/thotypous.png)
 
 
+*Paulo Matias* (github: thotypous)
+
 Assistant Professor at DC-UFSCar. Ph.D. in Computational Physics from
 IFSC-USP.
 
-*Marcelo Samsoniuk*
-
-github: samsoniuk
+*Marcelo Samsoniuk* (github: samsoniuk)
 
 ![samsoniuk](../assets/images/samsoniuk.png)[]
 
