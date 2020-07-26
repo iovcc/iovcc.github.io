@@ -9,7 +9,7 @@ modified: 2020-07-25
 
 ## About the IO/VCC
 
-The IO/VCC was created in Jul 2020 by Carlos Delphino, Marcelo Samsoniuk and
+The IO/VCC was created in Jul 2020 by Carlos Delfino, Marcelo Samsoniuk and
 Paulo Mathias after the analysis of a very weird segment of Verilog code:
 
 ```
@@ -39,7 +39,7 @@ are!
 
 
 
-#### Carlos Delphino
+#### Carlos Delfino
 
 ![carlosdelfino]({{base_path}}/assets/images/carlosdelfino.png) 
 
