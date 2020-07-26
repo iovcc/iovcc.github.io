@@ -9,6 +9,20 @@ tags: HDL, VHDL, Verilog, Bluespec, SystemVerilog, chisel, iverilog, verelator, 
 locale: pt-BR
 timezone: America/Sao_Paulo
 
+# Analytics
+analytics:
+  provider               : google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : UA-173523182-1
+    anonymize_ip         : # true, false (default)
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+google_site_verification : google37b3d9124742b7a6
+bing_site_verification   : 7BDB0376D08C31133EDEDA80DC90DFEF
+yandex_site_verification :
+naver_site_verification  :
+
 permalink: /posts/:categories/:title/
 
 paginate: 6 # amount of posts to show
