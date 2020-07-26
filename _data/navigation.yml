@@ -2,11 +2,11 @@
 main:
   - title: "Início"
     url: /
+  - title: "Concurso"
+    url: /contest/
   - title: "Quem Somos"
     url: /about/
-  - title: "Regras"
-    url: /contest/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Nossos Termos"
+    url: /terms/
   # - title: "Sitemap"
   #   url: /sitemap/
