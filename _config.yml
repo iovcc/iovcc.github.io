@@ -23,6 +23,8 @@ bing_site_verification   : 7BDB0376D08C31133EDEDA80DC90DFEF
 yandex_site_verification :
 naver_site_verification  :
 
+excerpt_separator: <!--more-->
+
 permalink: /posts/:categories/:title/
 
 paginate: 6 # amount of posts to show
