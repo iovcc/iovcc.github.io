@@ -2,3 +2,7 @@
 	path = _posts
 	url = https://github.com/iovcc/_posts
 	branch = master
+[submodule "emulsiv"]
+	path = riscv/emulsiv
+	url = https://github.com/CursoMaker/emulsiV.git
+	branch = cdn
