@@ -5,4 +5,4 @@
 [submodule "emulsiv"]
 	path = riscv/emulsiv
 	url = https://github.com/CursoMaker/emulsiV.git
-	branch = cdn
+	branch = cdn_cursomaker
