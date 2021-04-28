@@ -9,12 +9,6 @@ read_time: true
 comments: true
 share: true
 feature_row:
-  - title: "Carlos Delfino"
-    image_path: "/assets/images/carlosdelfino.png"
-    excerpt: "Love programming, love get new knowledgement, love to learn.  First coded at age of 13 years old and, since that time, is continuously learning and getting new challenges. github: carlosdelfino"
-    url: "https://carlosdelfino.eti.br"
-    btn_label: "Site"
-    btn_class: "btn--primary"
   - title: "Paulo Matias"
     image_path: "/assets/images/thotypous.png" 
     excerpt: "Assistant Professor at DC-UFSCar.  Ph.D.  in Computational Physics from IFSC-USP. github: thotypous"
@@ -30,7 +24,7 @@ feature_row:
 
 ## About the IO/VCC
 
-The IO/VCC was created in Jul 2020 by Carlos Delfino, Marcelo Samsoniuk and
+The IO/VCC was created in Jul 2020 by Marcelo Samsoniuk and
 Paulo Mathias after the analysis of a very weird segment of Verilog code:
 
 ```
